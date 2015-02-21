@@ -1,2 +1,5 @@
-### This is a landing page for the Examples section
-Adding a landing page is pretty simple, all you need to do is add an "index.md" file to the related folder.
+All the example solutions of elasticsearch usage are available in this section
+
+###Index of examples
+
+1. [Auto Complete Suggestor](Examples/Auto_Complete_Suggestor)
