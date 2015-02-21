@@ -12,7 +12,7 @@
     "date_modified": true,
     "float": true,
     "file_editor": false,   
-    "repo": "justinwalsh/daux.io",
+    "repo": "harsimranwalia/harsimranwalia.com",
     "ignore": {
             "files": ["00_Getting_Started_back.md","Work_In_Progress.md", "02_GitHub_Flavored_Markdown.md","03_Code_Highlighting.md"],
             "folders": ["99_Not_Ready", "05_More_Examples"]
