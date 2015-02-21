@@ -1,7 +1,7 @@
 {
-    "title": "DAUX.IO",
-    "tagline": "The Easiest Way To Document Your Project",
-    "author": "Justin Walsh",   
+    "title": "ElasticSearch made easy",
+    "tagline": "The Easiest Way To do things with ElasticSearch",
+    "author": "Harsimran Walia",   
     "image": "<base_url>img/app.png",
     "theme": "daux-blue",
     "template": "default",
@@ -14,15 +14,14 @@
     "file_editor": false,   
     "repo": "justinwalsh/daux.io",
     "ignore": {
-            "files": ["Work_In_Progress.md"],
-            "folders": ["99_Not_Ready"]
+            "files": ["00_Getting_Started_back.md","Work_In_Progress.md", "02_GitHub_Flavored_Markdown.md","03_Code_Highlighting.md"],
+            "folders": ["99_Not_Ready", "05_More_Examples"]
     },
-    "twitter": ["justin_walsh", "todaymade"],
-    "google_analytics": "UA-12653604-10",
+    "twitter": ["b44nz0r", "accessgrownout"],
+    "google_analytics": "UA-30554865-1",
     "links": {
-        "Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
-        "GitHub Repo": "https://github.com/justinwalsh/daux.io",
-        "Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
-        "Made by Todaymade": "http://todaymade.com"
+        "GitHub Repo": "https://github.com/harsimranwalia/harsimranwalia.com",
+        "Help/Support/Bugs": "https://github.com/harsimranwalia/harsimranwalia.com/issues",
+        "Made by Harsimran": "http://harsimranwalia.com"
     }
 }
